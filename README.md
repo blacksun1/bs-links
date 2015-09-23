@@ -7,6 +7,7 @@ Links to stuff that I've found intertesting. Think of a small scale, 1st gen Yah
 * https://www.theguardian.com/info/developer-blog/2015/apr/08/clever-compilers
 * https://www.theguardian.com/info/developer-blog/2015/jul/27/the-user-experience-of-creative-sprints
 * http://www.personneltoday.com/hr/employer-branding-theory-action/
+* http://askubuntu.com/questions/445284/how-to-start-a-virtualbox-machine-via-command-line-without-gui
 
 ## DevOps
 
@@ -42,6 +43,8 @@ Links to stuff that I've found intertesting. Think of a small scale, 1st gen Yah
     - ESDoc: https://esdoc.org/
     - DocBlockr (sublime-jsdocs): https://github.com/spadgos/sublime-jsdocs
     - DocumentationJS: http://documentation.js.org/ and https://github.com/documentationjs/documentation
+    - JSDoc Users, Google group: https://groups.google.com/forum/#!forum/jsdoc-users
+    - JSDoc, ES6 support using master branch: https://groups.google.com/forum/#!topic/jsdoc-users/rp_D0MelVZU
 * ES6
     - ES6 Features: https://babeljs.io/
     - Babel: https://babeljs.io/
