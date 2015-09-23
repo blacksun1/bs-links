@@ -49,6 +49,16 @@ Links to stuff that I've found intertesting. Think of a small scale, 1st gen Yah
 * Online code editing
     - Plunker: http://plnkr.co/
     - Budo: https://github.com/mattdesl/budo
+* Frameworks/Code:
+    - AngularJS: https://angularjs.org/ and https://github.com/angular/angular.js
+    - Ember JS: http://emberjs.com/ and http://emberjs.com/
+    - JAWS (JavaScript - AWS): https://github.com/jaws-framework/JAWS
+    - Underscore JS: http://underscorejs.org/
+    - Breeze JS: http://www.getbreezenow.com/breezejs
+    - React JS: https://facebook.github.io/react/ and https://github.com/facebook/react
+    - Dozer JS: http://dozerjs.com/
+* Node
+    - 5 must have npm node.js modules: http://www.nodewiz.biz/5-must-have-npm-node-js-modules/
 
 ## Content Management
 
@@ -60,4 +70,9 @@ Links to stuff that I've found intertesting. Think of a small scale, 1st gen Yah
 
 * Ghost: https://ghost.org/
 * Grid, The Guardian’s new image management system: https://github.com/guardian/grid
+* Explorer: https://github.com/soyuka/explorer
 
+## RaspberryPI
+
+* SOHO Remote Access VPN. Easy as Pie, Raspberry Pi: https://www.sans.org/reading-room/whitepapers/networkdevs/soho-remote-access-vpn-easy-pie-raspberry-pi-34427
+* Powering a Raspberry Pi from Solar Power: http://www.voltaicsystems.com/blog/powering-a-raspberry-pi-from-solar-power/
