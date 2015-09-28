@@ -79,3 +79,11 @@ Links to stuff that I've found intertesting. Think of a small scale, 1st gen Yah
 
 * SOHO Remote Access VPN. Easy as Pie, Raspberry Pi: https://www.sans.org/reading-room/whitepapers/networkdevs/soho-remote-access-vpn-easy-pie-raspberry-pi-34427
 * Powering a Raspberry Pi from Solar Power: http://www.voltaicsystems.com/blog/powering-a-raspberry-pi-from-solar-power/
+* How to build a Raspberry PI media centre: http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/
+* DAC+: https://www.hifiberry.com/dacplus/
+
+## Nice tools
+
+* Command line tools
+    * oh-my-zsh: https://github.com/robbyrussell/oh-my-zsh
+    * The fuck: https://github.com/nvbn/thefuck
